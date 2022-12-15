@@ -37,5 +37,7 @@ STT 개발환경
 Stable Diffusion 개발환경
 - git lfs install
 - git clone https://huggingface.co/runwayml/stable-diffusion-v1-5
+- pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
 - pip install flask
 - pip install diffusers
+- pip install transformers
