@@ -29,6 +29,5 @@ Kobert 개발환경
 
 
 STT 개발환경
-
-pip install speechrecognition
-pip install PyAudio
+- pip install speechrecognition
+- pip install PyAudio
