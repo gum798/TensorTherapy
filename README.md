@@ -3,9 +3,9 @@
 Kobert 개발환경
 - 로컬
   - PC : MacBook Pro 2019
-        - 프로세서 : 2.6 GHz 6코어 intel core i7
-        - 그래픽 : AMD Radeon Pro 5300M 4 GB
-        - 메모리 : 16GB 2667 MHz DDR4
+    - 프로세서 : 2.6 GHz 6코어 intel core i7
+    - 그래픽 : AMD Radeon Pro 5300M 4 GB
+    - 메모리 : 16GB 2667 MHz DDR4
 
 - 패키지 (Colab에서 코드 실행, 개별 패키지느 아래 버전으로 설치)
     - graphviz-0.8.4 
