@@ -1,6 +1,6 @@
 # TensorTherapy
-
 - Python 3.7
+- GPU : NVIDIA CUDA 11.6
 
 Kobert 개발환경
 - 로컬
@@ -41,3 +41,10 @@ Stable Diffusion 개발환경
 - pip install flask
 - pip install diffusers
 - pip install transformers
+
+KoBert
+- pip install gluonnlp
+- pip install mxnet
+- pip install pandas
+- pip install boto3
+- pip install onnxruntime 
