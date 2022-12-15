@@ -1,4 +1,5 @@
 # TensorTherapy
+Python 3.7
 
 Kobert 개발환경
 - 로컬
@@ -31,3 +32,9 @@ Kobert 개발환경
 STT 개발환경
 - pip install speechrecognition
 - pip install PyAudio
+
+Stable Diffusion
+- git lfs install
+- git clone https://huggingface.co/runwayml/stable-diffusion-v1-5
+- pip install flask
+- pip install diffusers
