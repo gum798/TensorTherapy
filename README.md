@@ -7,7 +7,7 @@ Kobert 개발환경
     - 그래픽 : AMD Radeon Pro 5300M 4 GB
     - 메모리 : 16GB 2667 MHz DDR4
 
-- 패키지 (Colab에서 코드 실행, 개별 패키지느 아래 버전으로 설치)
+- 패키지 (Colab에서 코드 실행, 개별 라이브러리 패키지는 아래 버전으로 설치)
     - graphviz-0.8.4 
     - mxnet-1.9.1
     - gluonnlp-0.10.0
